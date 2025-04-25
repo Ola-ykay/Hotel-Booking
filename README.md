@@ -68,7 +68,9 @@ To design an interactive and informative dashboard that helps hotel managers and
 
     
 ## Data Visualization 
-![Table]()
+![table]()
+
+![Table](https://github.com/Ola-ykay/Hotel-Booking/blob/main/table-hotel-booking.png)
 
 ![Dashboard](https://github.com/Ola-ykay/Hotel-Booking/blob/main/hotel-booking-dashboard.png)
 
